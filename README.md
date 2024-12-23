@@ -1,14 +1,15 @@
 # LEDLink
 
-# Project Objective 
+<h2>Project Objective</h2> 
 Control the onboard LEDs of the CC1350 Launchpad through Bluetooth using the nRF Connect app. The CC1350 will be programmed to receive commands over Bluetooth Low Energy(BLE) to turn the LEDs on and off.
 
-# Components of the project
-- TI SimpleLink CC1350 Wireless MCU Launchpad Development Kit
-- Computer with appropriate IDE and tools for coding (e.g., Code Composer Studio)
-- nRF Connect app (available on iOS and Android)
+<h2>Components of the project</h2>
 
-# Step-by-Step Approach
+   - TI SimpleLink CC1350 Wireless MCU Launchpad Development Kit
+   - Computer with appropriate IDE and tools for coding (e.g., Code Composer Studio)
+   - nRF Connect app (available on iOS and Android)
+
+<h2>Step-by-Step Approach</h2>
 <h3>Step 1: Setup the Development Environment</h3>
 
 1. Install Code Composer Studio:
