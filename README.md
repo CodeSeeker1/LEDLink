@@ -6,7 +6,7 @@ Control the onboard LEDs of the CC1350 Launchpad through Bluetooth using the nRF
 <h2>Components of the project</h2>
 
    - TI SimpleLink CC1350 Wireless MCU Launchpad Development Kit
-   - Computer with appropriate IDE and tools for coding (e.g., Code Composer Studio)
+   - Code Composer Studio
    - nRF Connect app (available on iOS and Android)
 
 <h2>Step-by-Step Approach</h2>
